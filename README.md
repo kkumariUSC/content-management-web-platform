@@ -66,5 +66,4 @@ Frontend UI → WordPress/PHP Application Layer → Content/Commerce Modules
 
 ## ⚠️ Note
 
-This project was developed for real-world usage. Source code is not included due to confidentiality constraints.# content-management-web-platform
-Content and media web platform with WordPress, WooCommerce, and custom frontend development
+This project was developed for real-world usage. Source code is not included due to confidentiality constraints.
