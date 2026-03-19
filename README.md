@@ -23,8 +23,6 @@ This project was developed as a real-world web platform combining editorial cont
 # 📸 Demo
 <img width="1907" height="872" alt="image" src="https://github.com/user-attachments/assets/2772c261-0883-45e2-8df6-42d855ab3639" />
 
-# Landing page
-
 <img width="543" height="392" alt="image" src="https://github.com/user-attachments/assets/8b88500a-935a-44b4-b598-427ca4e6d429" />
 
 ------------------------------------------------------------------------
